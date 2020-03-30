@@ -40,7 +40,7 @@ for Letter in Letters:
         data = data.append(df)
         Number = int(Number)+500
 
-data.columns = column_names
+data.columns = col_names
 data.index = range(len(data))
 
 data.to_csv('500a.csv', encoding='utf-8')
