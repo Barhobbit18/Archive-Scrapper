@@ -9,6 +9,6 @@ All data goes into SQL and presented in QLik. SQL and Qlik file to big to load.
 Added TDE file(tableau) tried to keep below 25MB. If I keep everthing the file is 893MB. Ton of noise in Album review and Aritst info.  Drop them only kept average rating per album. 
 
 I made summary of metal bands per country, Active and the 6 main Genres that is active. 
-https://metalbands.imfast.io/
+https://metal.imfast.io/
 
 PS, the genre is according to how i feel. 
